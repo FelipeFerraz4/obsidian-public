@@ -14,8 +14,8 @@ Lista ordenada
 3. Conclusão
 
 Tarefas (checkboxes)
-- [ ] Ler artigo
-- [x] Fazer resumo
+- [x] Ler artigo
+- [ ] Fazer resumo
 
 Link externo
 [OpenAI](https://openai.com)
