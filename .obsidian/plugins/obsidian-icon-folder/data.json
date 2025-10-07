@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFile",
       "FabReadme",
       "LiFolder"
     ],
@@ -31,6 +32,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Git e Github": "LiFolder",
-  "README.md": "FabReadme"
+  "Git e Github": {
+    "iconName": "LiFolder",
+    "iconColor": "#69c0dd"
+  },
+  "README.md": "FasFile",
+  "Git e Github/Sem título.md": "FasFile"
 }
