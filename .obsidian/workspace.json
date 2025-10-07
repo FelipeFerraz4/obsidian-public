@@ -100,12 +100,14 @@
             "id": "0554a66fa8f81bec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md"
+                "file": "Markdown/Comandos Básicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-07 20.42.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Comandos Básicos"
             }
           }
         ],
@@ -216,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md",
+                "file": "Markdown/Comandos Básicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-10-07 20.42.54.excalidraw"
+              "title": "Sumário de Comandos Básicos"
             }
           },
           {
@@ -279,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,11 +299,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e212205d28411b9a",
+  "active": "0554a66fa8f81bec",
   "lastOpenFiles": [
-    "Sem título 1.base",
-    "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md",
+    "Git e Github/Comando Básico.md",
     "2025-10-07.md",
+    "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md",
+    "Sem título 1.base",
     "Sem título 1.canvas",
     "Sem título 2.canvas",
     "Backlog.md",
@@ -310,7 +314,6 @@
     "README.md",
     "2025-10-23.md",
     "Markdown/Comandos Básicos.md",
-    "Git e Github/Comando Básico.md",
     "Sem título.base",
     "Excalidraw/Drawing 2025-10-07 18.35.44.excalidraw.md",
     "Excalidraw",

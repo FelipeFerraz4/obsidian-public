@@ -30,7 +30,7 @@ Imagem da web
 ![Logo Obsidian](https://obsidian.md/images/obsidian-logo.svg)
 
 Citação
-> “A documentação é parte essencial do código.”
+> [!exemplo] “A documentação é parte essencial do código.”
 
 Código em linha
 Use `git push` para enviar as alterações.
