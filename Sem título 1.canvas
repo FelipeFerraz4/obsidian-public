@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"569b242e92e2a4b9","type":"text","text":"Sistama da Calang.io","x":-440,"y":-240,"width":250,"height":60},
+		{"id":"6992fc530cc62e84","type":"text","text":"Back-end","x":-620,"y":20,"width":250,"height":60},
+		{"id":"4701110d4fd68014","type":"text","text":"Front-end","x":-220,"y":20,"width":250,"height":60},
+		{"id":"b0db2c747df83081","x":-140,"y":-460,"width":260,"height":120,"type":"file","file":"Backlog.md"}
+	],
+	"edges":[
+		{"id":"752110c4ddc27fb3","fromNode":"569b242e92e2a4b9","fromSide":"bottom","toNode":"6992fc530cc62e84","toSide":"top"},
+		{"id":"2bf428d9b7c00bc1","fromNode":"569b242e92e2a4b9","fromSide":"bottom","toNode":"4701110d4fd68014","toSide":"top"},
+		{"id":"df9fd91936430669","fromNode":"569b242e92e2a4b9","fromSide":"top","toNode":"b0db2c747df83081","toSide":"left"}
+	]
+}

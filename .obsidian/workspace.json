@@ -58,16 +58,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Comandos Básicos.md",
+                "file": "Nome da Nota.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Básicos"
+              "title": "Nome da Nota"
+            }
+          },
+          {
+            "id": "9c2b71b896019f62",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "dbdf4db1115fffd5",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Sem título 1.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "0554a66fa8f81bec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-07 20.42.54.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -133,7 +175,7 @@
       {
         "id": "a75c4ac2478ed3e4",
         "type": "tabs",
-        "dimension": 31.500572737686138,
+        "dimension": 47.712418300653596,
         "children": [
           {
             "id": "eb08906229bff1fc",
@@ -174,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Comandos Básicos.md",
+                "file": "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Comandos Básicos"
+              "title": "Sumário de Drawing 2025-10-07 20.42.54.excalidraw"
             }
           },
           {
@@ -194,12 +236,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "75fab669f2a33836",
         "type": "tabs",
-        "dimension": 22.90950744558992,
+        "dimension": 26.143790849673206,
         "children": [
           {
             "id": "b3ece53066b0aa19",
@@ -221,7 +263,7 @@
       {
         "id": "f91c04dfeb758470",
         "type": "tabs",
-        "dimension": 45.58991981672394,
+        "dimension": 26.143790849673206,
         "children": [
           {
             "id": "f8ffb9832f4b026e",
@@ -254,18 +296,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0f04f4f5736cb10",
+  "active": "e212205d28411b9a",
   "lastOpenFiles": [
+    "Sem título 1.base",
+    "Excalidraw/Drawing 2025-10-07 20.42.54.excalidraw.md",
+    "2025-10-07.md",
+    "Sem título 1.canvas",
+    "Sem título 2.canvas",
+    "Backlog.md",
+    "Nova nota.md",
+    "Nome da Nota.md",
+    "Sem título.canvas",
+    "README.md",
+    "2025-10-23.md",
+    "Markdown/Comandos Básicos.md",
     "Git e Github/Comando Básico.md",
     "Sem título.base",
     "Excalidraw/Drawing 2025-10-07 18.35.44.excalidraw.md",
-    "Sem título.canvas",
     "Excalidraw",
-    "Markdown/Comandos Básicos.md",
-    "README.md",
     "Markdown",
     "Git e Github",
-    "2025-10-07.md",
     "202510071616.md"
   ]
 }
