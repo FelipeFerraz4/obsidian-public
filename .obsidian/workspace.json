@@ -11,13 +11,32 @@
             "id": "94181660814b6ed8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "README"
+            }
+          },
+          {
+            "id": "60779cc2be3a7bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8acc803d5c95c5d6",
@@ -91,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para README"
             }
           },
           {
@@ -109,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para README"
             }
           },
           {
@@ -122,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Sem título"
+            }
+          },
+          {
+            "id": "ab2a1d3dac57fcbd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "75fab669f2a33836",
@@ -183,18 +214,20 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "zk-prefixer:Criar nova nota única": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94181660814b6ed8",
+  "active": "60779cc2be3a7bd0",
   "lastOpenFiles": [
+    "README.md",
+    "Sem título.md",
+    "Sem título",
+    "Git e Github",
     "Sem título.base",
     "2025-10-07.md",
-    "202510071616.md",
-    "README.md"
+    "202510071616.md"
   ]
 }
