@@ -11,14 +11,10 @@
             "id": "94181660814b6ed8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-10-07.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-07"
+              "title": "Nova aba"
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-10-07"
+              "title": "Backlinks"
             }
           },
           {
@@ -114,14 +109,34 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2025-10-07"
+              "title": "Links de saída"
             }
           },
+          {
+            "id": "45416db9a4505d19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "75fab669f2a33836",
+        "type": "tabs",
+        "children": [
           {
             "id": "b3ece53066b0aa19",
             "type": "leaf",
@@ -136,22 +151,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "45416db9a4505d19",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2025-10-07.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de 2025-10-07"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f91c04dfeb758470",
+        "type": "tabs",
+        "children": [
           {
             "id": "f8ffb9832f4b026e",
             "type": "leaf",
@@ -186,8 +192,9 @@
   },
   "active": "94181660814b6ed8",
   "lastOpenFiles": [
-    "202510071616.md",
+    "Sem título.base",
     "2025-10-07.md",
+    "202510071616.md",
     "README.md"
   ]
 }
