@@ -39,6 +39,23 @@
             "id": "2a49391e7a3e275e",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "a0f04f4f5736cb10",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Markdown/Comandos Básicos.md",
@@ -50,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,14 +254,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a49391e7a3e275e",
+  "active": "a0f04f4f5736cb10",
   "lastOpenFiles": [
-    "README.md",
-    "Markdown/Comandos Básicos.md",
-    "Markdown",
     "Git e Github/Comando Básico.md",
-    "Git e Github",
     "Sem título.base",
+    "Excalidraw/Drawing 2025-10-07 18.35.44.excalidraw.md",
+    "Sem título.canvas",
+    "Excalidraw",
+    "Markdown/Comandos Básicos.md",
+    "README.md",
+    "Markdown",
+    "Git e Github",
     "2025-10-07.md",
     "202510071616.md"
   ]

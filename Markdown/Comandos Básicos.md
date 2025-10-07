@@ -42,3 +42,17 @@ Bloco de código
 
 Ênfase
 **Texto**
+*Texto*
+~~Texto~~
+
+| Indicador | Fonte           | Frequência |
+| :-------- | :-------------- | :--------- |
+| Bugs      | SonarQube       | Diário     |
+| Commits   | GitHub Insights | Semanal    |
+
+Separador
+
+---
+
+Links de contexto (tags)
+#pesquisa #dev #documentação
