@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFolder",
       "FasFile",
       "FabReadme",
       "LiFolder"
@@ -32,16 +33,32 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Git e Github": {
-    "iconName": "LiFolder",
-    "iconColor": "#69c0dd"
-  },
-  "README.md": "FasFile",
-  "Git e Github/Comando Básico.md": "FasFile",
   "Markdown": {
-    "iconName": "LiFolder",
-    "iconColor": "#55aeaf"
+    "iconName": "FasFolder",
+    "iconColor": "#86d9ea"
   },
-  "Markdown/Comandos Básicos.md": "FasFile",
-  "2025-10-07.md": "FasFile"
+  "Markdown/Comandos Básicos.md": {
+    "iconName": "FasFile",
+    "iconColor": "#e77af5"
+  },
+  "Monitoria": {
+    "iconName": "FasFolder",
+    "iconColor": "#86f3a7"
+  },
+  "Monitoria/Introdução à Programação": {
+    "iconName": "FasFolder",
+    "iconColor": "#dde576"
+  },
+  "Monitoria/Introdução à Programação/Ponteiro": {
+    "iconName": "FasFolder",
+    "iconColor": "#ff7a7a"
+  },
+  "Markdown/Callouts.md": {
+    "iconName": "FasFile",
+    "iconColor": "#82e8e1"
+  },
+  "Monitoria/Introdução à Programação/Ponteiro/Explicação.md": {
+    "iconName": "FasFile",
+    "iconColor": "#c693f0"
+  }
 }
