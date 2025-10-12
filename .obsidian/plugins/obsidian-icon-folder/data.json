@@ -57,9 +57,12 @@
     "iconName": "FasFile",
     "iconColor": "#82e8e1"
   },
-  "Monitoria/Introdução à Programação/Ponteiro/Explicação.md": {
+  "Monitoria/Introdução à Programação/Ponteiro/ponteiro.md": {
     "iconName": "FasFile",
-    "iconColor": "#c693f0"
+    "iconColor": "#bf8be9"
   },
-  "Monitoria/Introdução à Programação/Ponteiro/ponteiro.md": "FasFile"
+  "Monitoria/Introdução à Programação/Função": {
+    "iconName": "FasFolder",
+    "iconColor": "#d089f0"
+  }
 }
