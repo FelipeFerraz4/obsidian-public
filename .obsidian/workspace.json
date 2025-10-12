@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8acc803d5c95c5d6",
@@ -222,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e212205d28411b9a",
+  "active": "6235c03ef15e5302",
   "lastOpenFiles": [
     "Markdown/Callouts.md",
     "Monitoria/Introdução à Programação/Ponteiro/Explicação.md",
