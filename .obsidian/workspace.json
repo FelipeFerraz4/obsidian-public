@@ -177,7 +177,7 @@
       {
         "id": "a75c4ac2478ed3e4",
         "type": "tabs",
-        "dimension": 47.712418300653596,
+        "dimension": 47.71241830065359,
         "children": [
           {
             "id": "eb08906229bff1fc",
@@ -233,8 +233,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -243,7 +243,7 @@
       {
         "id": "75fab669f2a33836",
         "type": "tabs",
-        "dimension": 26.143790849673206,
+        "dimension": 26.143790849673202,
         "children": [
           {
             "id": "b3ece53066b0aa19",
@@ -265,7 +265,7 @@
       {
         "id": "f91c04dfeb758470",
         "type": "tabs",
-        "dimension": 26.143790849673206,
+        "dimension": 26.143790849673202,
         "children": [
           {
             "id": "f8ffb9832f4b026e",
@@ -273,8 +273,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
